@@ -1,0 +1,31 @@
+[{"notice":""},
+{"channels":[
+{
+"channelname": "Star Sport Hindi 1 HD",
+"poster": "https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/12/star-sports.jpg",
+"language": "Hindi",
+"quality": "HD",
+"playurl": "http://randomserver.site:2086/123456789/123456789/94788?checkedby:hlscat.com"
+},
+{
+"channelname": "Willow HD IPL",
+"poster": "https://showbox.fun/wp-content/uploads/2019/06/willow-tv-apk.png",
+"language": "English",
+"quality": "480P",
+"playurl": "https://fs1.bonsaiprolink.xyz/ipl/bonsaihd.m3u8"
+},
+{
+"channelname": "Star Sport 2",
+"poster": "https://upload.wikimedia.org/wikipedia/en/6/68/Star_Sports_India_logo.jpg",
+"language": "English",
+"quality": "480P",
+"playurl": "http://66.northerniptv.ca:8000/tommy2/123456/202?checkedby%3Ahlscat.com"
+},
+{
+"channelname": "Sky Sport Cricket",
+"poster": "https://archive.org/services/img/SkySportsCricket_201708",
+"language": "English",
+"quality": "720P",
+"playurl": "http://66.northerniptv.ca:8000/live/george/george123/205.m3u8?checkedby:hlscat.com"
+}
+]}]
